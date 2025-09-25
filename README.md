@@ -1,2 +1,2 @@
 # PurpleTeaming
-Tools for purple team and security
+Tools for purple team and cyber security related.
