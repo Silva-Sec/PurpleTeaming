@@ -55,7 +55,7 @@ The scanner checks for the following security configurations:
 0.  **Run it directly** or via URL LIST from txt file.
 
     ```bash
-    python security_scanner.py github.com
+    python wsps.py github.com
     ```
 
 1.  **Create a URL list**: Create a file named `urls.txt` (or any other name) in the same directory as the script. Add the domains you want to scan, one per line. The script works with or without `http://` or `https://`.
@@ -70,7 +70,7 @@ The scanner checks for the following security configurations:
 2.  **Run the scanner**: Execute the script from your terminal, passing the name of your URL file as an argument.
 
     ```bash
-    python security_scanner.py urls.txt
+    python wsps.py urls.txt
     ```
 
 3.  **Interpret the output**: The script will print a color-coded report to the terminal for each URL.
