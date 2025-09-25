@@ -52,7 +52,7 @@ The scanner checks for the following security configurations:
 
 ## Usage 🚀
 
-0.  **Run it directly or via URL LIST from txt file.
+0.  **Run it directly** or via URL LIST from txt file.
 
     ```bash
     python security_scanner.py github.com
